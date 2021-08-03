@@ -1,0 +1,13 @@
+{
+  "name": "listas",
+  "version": "1.0.0",
+  "description": "listas",
+  "main": "listas.html",
+  "scripts": {
+  },
+  "keywords": [
+    "listas"
+  ],
+  "author": "Luana Vieira",
+  "license": "ISC"
+}

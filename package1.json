@@ -1,0 +1,15 @@
+{
+  "name": "musica-ninar.html",
+  "version": "1.0.0",
+  "description": "musica de ninar ",
+  "main": "musica-ninar.html",
+  "scripts": {
+  },
+  "keywords": [
+    "musica",
+    "de",
+    "ninar"
+  ],
+  "author": "Luana Vieira",
+  "license": "ISC"
+}

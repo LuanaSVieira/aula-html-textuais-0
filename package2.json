@@ -1,0 +1,15 @@
+{
+  "name": "informacoes",
+  "version": "1.0.0",
+  "description": "mini biografia",
+  "main": "informacoes.html",
+  "scripts": {
+  },
+  "keywords": [
+    "informacoes",
+    "mini",
+    "biografia"
+  ],
+  "author": "Luana Vieira",
+  "license": "ISC"
+}
