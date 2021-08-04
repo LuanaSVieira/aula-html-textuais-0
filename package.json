@@ -1,0 +1,14 @@
+{
+  "name": "filmes-oscar",
+  "version": "1.0.0",
+  "description": "filmes indicados ao Oscar",
+  "main": "filmes-oscar.html",
+  "scripts": {
+  },
+  "keywords": [
+    "filmes",
+    "oscar"
+  ],
+  "author": "Luana",
+  "license": "ISC"
+}
